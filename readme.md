@@ -2,7 +2,7 @@
 
 Hello and welcome to my collection of projects! As a passionate Web Developer, DSA enthusiast, and Java programmer, I am constantly exploring new technologies and enhancing my skill set. Through these projects, I aim to solve real-world problems, push the boundaries of my capabilities, and share my knowledge with others. Each project reflects my dedication to continuous learning and my commitment to creating impactful solutions.
 
-Feel free to check out my **[portfolio](https://deepikakolli4.github.io/DeepikaKolli/)** to know more about me and my work. Here, you'll find the repositories of my latest projects, along with demo videos to provide you with a sneak peek of the functionality and design.
+Feel free to check out my **[portfolio](https://deepikakolli4.github.io/DeepikaKolli/)** to know more about me and my work. You can also connect with me on **[LinkedIn]([https://www.linkedin.com/in/deepikakolli4/](https://www.linkedin.com/in/deepikakolli4/)**. Here, you'll find the repositories of my latest projects, along with demo videos to provide you with a sneak peek of the functionality and design.
 
 ## Projects Overview
 
@@ -29,4 +29,10 @@ Feel free to check out my **[portfolio](https://deepikakolli4.github.io/DeepikaK
 
 ---
 
-Feel free to browse through the repositories, explore the code, and watch the demo videos. If you have any questions or feedback, don't hesitate to reach out. Thank you for visiting!
+## Internship Overview 
+
+| Project Name                         | Repository Link                                                    | Demo Video Link                                                                                                                                             |
+| ------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CodSoft**                          | [GitHub Repository](https://github.com/Deepikakolli4/CODSOFT)       | Task-1 [LinkedIn](https://www.linkedin.com/posts/deepikakolli4_codsoft-activity-7183483432738414593-b9Jr?utm_source=share&utm_medium=member_desktop)  Task-2 [LinkedIn](https://www.linkedin.com/posts/deepikakolli4_codsoft-internship-webdevelopment-activity-7183487880328101888-sv5p?utm_source=share&utm_medium=member_desktop) Task-3 [LinkedIn](https://www.linkedin.com/posts/deepikakolli4_codsoft-internship-webdevelopment-activity-7183488708803747841-Zr14?utm_source=share&utm_medium=member_desktop) |
+| **AWS DATA ENGINEERING**            | [GitHub Repository](https://drive.google.com/file/d/1YMF5AUloP0wF7o8Sx5jRiAIJFmyA-6Nm/view?usp=sharing) | [Demo Video](https://drive.google.com/file/d/1M29APCwTfEN8xmDq4wokzzdBAaZVPgbY/view?usp=sharing) |
+| **SalesForce**                       | [GitHub Repository](https://github.com/Deepikakolli4/SalesForce)   | [Demo Video](https://drive.google.com/file/d/1C8pEAIZY2NrRqmvoJWRdhqEYvAai78ne/view?usp=sharing) |
