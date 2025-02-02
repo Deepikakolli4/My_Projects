@@ -2,7 +2,7 @@
 
 Hello and welcome to my collection of projects! As a passionate Web Developer, DSA enthusiast, and Java programmer, I am constantly exploring new technologies and enhancing my skill set. Through these projects, I aim to solve real-world problems, push the boundaries of my capabilities, and share my knowledge with others. Each project reflects my dedication to continuous learning and my commitment to creating impactful solutions.
 
-Feel free to check out my **[portfolio](https://deepikakolli4.github.io/DeepikaKolli/)** to know more about me and my work. You can also connect with me on **[LinkedIn]([https://www.linkedin.com/in/deepikakolli4/])**. Here, you'll find the repositories of my latest projects, along with demo videos to provide you with a sneak peek of the functionality and design.
+Feel free to check out my **[portfolio](https://deepikakolli4.github.io/DeepikaKolli/)** to know more about me and my work. You can also connect with me on **[LinkedIn](https://www.linkedin.com/in/deepikakolli4/)**. Here, you'll find the repositories of my latest projects, along with demo videos to provide you with a sneak peek of the functionality and design.
 
 ## Projects Overview
 
